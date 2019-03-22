@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBkg">#111111</color>
+    <color name="colorButt">#222222</color>
+    <color name="colorButt2">#333333</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="black">#000000</color>
+</resources>
